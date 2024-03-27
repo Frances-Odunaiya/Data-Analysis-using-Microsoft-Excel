@@ -18,4 +18,4 @@ This repository contains Microsoft Excel Spreadsheets and some PDF files (**Stri
 # Support
 If you have any questions, feedback, or suggestions for improvement, feel free to reach out to me. Your input is valuable and helps us enhance the Excel files. I learn everyday!👍
 
-# Enjoy exploring the Pet Shelter Marketing Dashboard and leveraging its insights to make a difference in the lives of pets in need!
+# Enjoy exploring the spreadsheets!
