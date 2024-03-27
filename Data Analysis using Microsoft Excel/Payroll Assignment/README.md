@@ -20,4 +20,4 @@ The task involves comparing expenses in a spreadsheet and providing a response b
 - Provide a response based on the analysis, including any insights or recommendations.
 - Create a graph to visualize the expenses data, aiding in communication and understanding.
 
-# Thanks for stopping by!
+## Thanks for stopping by!
