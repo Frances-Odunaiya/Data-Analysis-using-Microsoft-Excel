@@ -2,7 +2,7 @@
 
 **Description**: Microsoft Excel is a powerful spreadsheet software widely used for data analysis, calculation, and visualization. It offers a user-friendly interface with versatile functions for managing numerical data. Excel is a fundamental tool for businesses, academics, and individuals for creating tables, charts, and complex calculations.
 
-This repository contains Microsoft Excel Spreadsheets and some PDF files showing the problems/ tasks' with their respective solutions (**Strictly for Three Vacations, Payroll Assignment, Petchoice Assignment,and Shopping List Assignment**)
+This repository contains Microsoft Excel Spreadsheets and some PDF files (**Strictly for Three Vacations, Payroll Assignment, Petchoice Assignment,and Shopping List Assignment**) showing the problems/ tasks' with their respective solutions 
 
 ## PROJECTS
 1. **Problem Solving with Excel Spreadsheets** : This file contains all the issues that need to be resolved using the Microsoft Excel tool. [Go to PDF File](https://github.com/Frances-Odunaiya/Data-Analysis-using-Microsoft-Excel/blob/main/Data%20Analysis%20using%20Microsoft%20Excel/Problem%20Solving%20with%20Excel%20Spreadsheets%20Part.pdf)
